@@ -52,6 +52,14 @@ Processed user queries by retrieving relevant information from Chroma and using 
 
 If no relevant content was found, the bot falls back to generating a default response indicating no relevant information.
 
+![image](https://github.com/user-attachments/assets/93838f8d-cab0-4e71-be74-dad85ccab306)
+
+![image](https://github.com/user-attachments/assets/3f82ca71-be6f-429c-9635-154527782901)
+
+![image](https://github.com/user-attachments/assets/ca2802e6-544d-4116-a872-fadeec91aebd)
+
+
+
 ## Part 2: Interactive QA Bot Interface
 
 **🌟 Overview**
@@ -76,7 +84,13 @@ Integrated the Chroma Vector Store and GPT-4o for querying. The answers are disp
 
 Implemented a database clearing function that resets the Chroma vector store for each document upload, ensuring new PDFs are always processed freshly.
 
-### 📦 Installation & Usage Guide
+![image](https://github.com/user-attachments/assets/880d3429-d454-4d65-a20d-ba13ae7f690a)
+
+![image](https://github.com/user-attachments/assets/3f312d03-3575-446e-8002-2728cee17572)
+
+
+## 📦 Installation & Usage Guide
+
 
 #### 1️⃣ Running the RAG Model with Colab Notebook (Part 1)
 
@@ -91,6 +105,7 @@ Implemented a database clearing function that resets the Chroma vector store for
 **Ask Your Questions ❓:** Now, simply input your question in the notebook’s query section!
 
 **Get Your Answers 🎉:** The RAG chatbot will generate responses based on the uploaded PDF and return them to you.
+
 
 
 #### 2️⃣ Running the Fully Functional RAG Chatbot with UI (Part 2)
@@ -122,7 +137,8 @@ Start the Streamlit app using the following command in your terminal:
 **Chat with the RAG Bot 💬:** Type your queries and receive answers based on the uploaded document.
 
 
-### 🚀 Conclusion
+
+## 🚀 Conclusion
 This project showcases the power of RAG models combined with a user-friendly interface to create an efficient and responsive document-based chatbot. With tools like Chroma for fast retrieval, GPT-4o for generation, and Streamlit for interactivity, this solution brings document querying to a new level.
 
 Feel free to reach out via email for any questions or feedback. Happy querying! 🎉
