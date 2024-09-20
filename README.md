@@ -108,6 +108,7 @@ Implemented a database clearing function that resets the Chroma vector store for
 
 
 
+
 #### 2️⃣ Running the Fully Functional RAG Chatbot with UI (Part 2)
 
 **Set Up a Virtual Environment:**
